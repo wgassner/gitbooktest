@@ -5,3 +5,4 @@
 * [What's New](whats-new.md)
 * [Concepts](concepts/README.md)
   * [Archiving](concepts/archiving.md)
+  * [Automated Testing](concepts/automated-testing.md)
