@@ -4,4 +4,6 @@ Welcome to the documentation for MIC-ECM. On this site you will find the documen
 
 
 
-New paragraph.
+New **paragraph**.
+
+![](<.gitbook/assets/mic globe \_mitSchatten\_small.png>)
